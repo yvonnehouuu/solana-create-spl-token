@@ -311,7 +311,6 @@ $ npm start
 The main modifications are createNewMintTransaction() and main()
 
 ## Difference
-
 ### Create Mint Transaction
 1. old :
     ```
