@@ -32,10 +32,6 @@ https://docs.metaplex.com/programs/token-metadata/token-standard#the-fungible-st
    Open tsconfig.json and uncomment (or add) this to your file: "resolveJsonModule": true
 6. Create `.env` and set your wallet's Private Key
 
-   ![螢幕擷取畫面_2023-03-31_171331](/uploads/9a643b77762c928caba25564031ba0fb/螢幕擷取畫面_2023-03-31_171331.png)
-
-![螢幕擷取畫面_2023-03-31_170728](/uploads/30c816f66b8be8f1ddcfa5882d20fbe3/螢幕擷取畫面_2023-03-31_170728.png)
-
 ## Build the Minting Tool
 > * Set up : Import Dependencies 
 > * Part 1 : Wallet and Connection
@@ -305,9 +301,9 @@ main();
 ```
 $ npm start
 ```
-![螢幕擷取畫面_2023-03-31_164940](/uploads/28271366d267e1b1bb1bb8003b47b655/螢幕擷取畫面_2023-03-31_164940.png)
+![splnpmstart](https://github.com/yvonnehouuu/solana-create-spl-token/assets/151607390/0b4c3057-afb7-41e4-8c03-0333dc3dfb3f)
+![splwallet](https://github.com/yvonnehouuu/solana-create-spl-token/assets/151607390/4d34c165-57c6-4cd4-901c-731ca24c86e9)
 
-![螢幕擷取畫面_2023-03-30_220637](/uploads/7c420842dada501459735c7b23f8359f/螢幕擷取畫面_2023-03-30_220637.png)
 
 <br/><br/>
 
