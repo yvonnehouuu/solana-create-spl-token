@@ -4,8 +4,6 @@ reference: https://www.quicknode.com/guides/solana-development/spl-tokens/how-to
 ## Metaplex Token Standard
 https://docs.metaplex.com/programs/token-metadata/token-standard#the-fungible-standard
 
-<br/><br/>
-
 ## Setting up : Environment
 1. Create a new project directory 
   
@@ -37,8 +35,6 @@ https://docs.metaplex.com/programs/token-metadata/token-standard#the-fungible-st
    ![螢幕擷取畫面_2023-03-31_171331](/uploads/9a643b77762c928caba25564031ba0fb/螢幕擷取畫面_2023-03-31_171331.png)
 
 ![螢幕擷取畫面_2023-03-31_170728](/uploads/30c816f66b8be8f1ddcfa5882d20fbe3/螢幕擷取畫面_2023-03-31_170728.png)
-
-<br/><br/>
 
 ## Build the Minting Tool
 > * Set up : Import Dependencies 
@@ -304,8 +300,6 @@ const main = async() => {
 
 main();
 ```
-
-<br/><br/>
 
 ## Run the Code!🎉
 ```
